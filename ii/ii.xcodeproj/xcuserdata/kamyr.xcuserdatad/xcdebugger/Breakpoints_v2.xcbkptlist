@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5302FDA2-59B3-464B-BA85-09BE5F18A77C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1466D422-A845-436C-B4AA-0C906BED6EA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ii/ViewBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "contentView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1466D422-A845-436C-B4AA-0C906BED6EA7 - 97b8127eb3c29b7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ii.ViewBuilder.contentView.getter : __C.UIView"
+                  moduleName = "ii"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kamyr/Desktop/Project/ii/ii/ViewBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "1466D422-A845-436C-B4AA-0C906BED6EA7 - 5a6ae50601e75cec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in ii.ViewBuilder.contentView.getter : __C.UIView"
+                  moduleName = "ii"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kamyr/Desktop/Project/ii/ii/ViewBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "1466D422-A845-436C-B4AA-0C906BED6EA7 - d2c1332c3d12f36e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ii.ViewBuilder.contentView.setter : __C.UIView"
+                  moduleName = "ii"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kamyr/Desktop/Project/ii/ii/ViewBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EF4583C-35D3-4ACB-A347-C02508FEB520"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ii/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
